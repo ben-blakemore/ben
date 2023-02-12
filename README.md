@@ -5,5 +5,5 @@
 - 🧑🏻‍🍳 I also like to cook so feel free to check that out [here](https://www.instagram.com/bytes_by_ben/)
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats" align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben-blakemore&langs_count=10&layout=compact&hide=scilab,html&exclude_repo=Nand2Tetris"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats" align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben-blakemore&langs_count=10&layout=compact&hide=scilab,html,Makefile&exclude_repo=Nand2Tetris"/></a>
 </p>

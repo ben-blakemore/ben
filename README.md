@@ -1,6 +1,6 @@
 ## Hey, I'm Ben
 
-- 🚆 I'm a Software Engineer for Capgemini Engineering, focused on writing safety critical software. Most of my work so far has been for trains
+- 🚆 I'm an Embedded Software Engineer at MBDA
 - 🤔 In my spare time I enjoy learning about lower level software. The boundary between hardware and software is where my interest lies
 - 🧑🏻‍🍳 I also like to cook so feel free to check that out [here](https://www.instagram.com/bytes_by_ben/)
 

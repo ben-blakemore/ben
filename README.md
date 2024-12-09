@@ -1,7 +1,8 @@
 ## Hey, I'm Ben
 
 - 🚆 I'm an Embedded Software Engineer at MBDA
-- 🤔 In my spare time I enjoy learning about lower level software. The boundary between hardware and software is where my interest lies
+- 🤔 In my spare time I enjoy learning about lower level software. The boundary between hardware and software is where my interest lies.
+- 🎓 I am currently studying for a part-time masters in Computer Science
 - 🧑🏻‍🍳 I also like to cook so feel free to check that out [here](https://www.instagram.com/bytes_by_ben/)
 
 <p align="center">
